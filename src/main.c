@@ -36,7 +36,7 @@ int main(int argc, char* argv[])
         
         /** Wpisz ścieżkę do pliku, który chcesz skompresować */
         read_bmp(
-                 "/Users/Olek/Documents/Git/FractalCompression/resources/lena_256.bmp"
+                 "path_to_file/input_filename.bmp"
                  , &input); //wczytanie bitmapy z pliku
         
         //============================================================================
