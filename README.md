@@ -21,4 +21,4 @@ The purpose of this project was to write a program that would perform fractal co
 
 ## License
 
-- © Copyright 2018-2021 Aleksander Grzybowski.
+- © Copyright 2018-2022 Aleksander Grzybowski.
